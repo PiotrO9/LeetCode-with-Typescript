@@ -4,4 +4,4 @@
 
 | Problem ID | Title                                                                | Solution                                      | Difficulty  |
 |------------|----------------------------------------------------------------------|-----------------------------------------------|-------------|
-| 1          | [Two Sum](https://leetcode.com/problems/two-sum/)                    | (./src/0001/Two-sum.ts)                       | Easy        |
+| 1          | [Two Sum](https://leetcode.com/problems/two-sum/)                    | [Solution](./src/0001/Two-sum.ts)                       | Easy        |
