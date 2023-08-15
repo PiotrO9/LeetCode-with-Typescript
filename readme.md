@@ -1,6 +1,6 @@
 # Leetcode in Typescript
 
-**Progress: 7/2520**
+**Progress: 8/2520**
 
 | Problem ID | Title                                                                                                                                                        | Solution                                                                                                 | Difficulty |
 |------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|------------|
@@ -9,6 +9,7 @@
 | 4          | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)                                                        | [Solution](./src/0004/median-of-two-sorted-arrays.ts)                                                    | Hard       |
 | 7          | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)                                                                                | [Solution](./src/0007/reverse-integer.ts)                                                                | Medium     |
 | 9          | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)                                                                            | [Solution](./src/0009/palindrome-number.ts)                                                              | Easy       |
+| 10         | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)                                                        | [Solution](./src/0010/regular-expression-matching.ts)                                                    | Hard       |
 | 13         | [Roman to Intiger](https://leetcode.com/problems/roman-to-integer/)                                                                                          | [Solution](./src/0013/roman-to-intiger.ts)                                                               | Easy       |
 | 26         | [Remove Dupliactes form Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)                                        | [Solution](./src/0026/remove-duplicates-from-sorted-array.ts)                                            | Easy       |
 | 58         | [Length of last word](https://leetcode.com/problems/length-of-last-word/)                                                                                    | [Solution](./src/0058/length-of-last-word.ts)                                                            | Easy       |
