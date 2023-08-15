@@ -1,12 +1,13 @@
 # Leetcode in Typescript
 
-**Progress: 3/2520**
+**Progress: 7/2520**
 
 | Problem ID | Title                                                                                                                                                        | Solution                                                                                                 | Difficulty |
 |------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|------------|
 | 1          | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                                                            | [Solution](./src/0001/Two-sum.ts)                                                                        | Easy       |
 | 2          | [Add two numbers](https://leetcode.com/problems/add-two-numbers/)                                                                                            | [Solution](./src/0002/add-two-numbers.ts)                                                                | Medium     |
 | 4          | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)                                                        | [Solution](./src/0004/median-of-two-sorted-arrays.ts)                                                    | Hard       |
+| 7          | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)                                                                                | [Solution](./src/0007/reverse-integer.ts)                                                                | Medium     |
 | 13         | [Roman to Intiger](https://leetcode.com/problems/roman-to-integer/)                                                                                          | [Solution](./src/0013/roman-to-intiger.ts)                                                               | Easy       |
 | 26         | [Remove Dupliactes form Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)                                        | [Solution](./src/0026/remove-duplicates-from-sorted-array.ts)                                            | Easy       |
 | 58         | [Length of last word](https://leetcode.com/problems/length-of-last-word/)                                                                                    | [Solution](./src/0058/length-of-last-word.ts)                                                            | Easy       |
