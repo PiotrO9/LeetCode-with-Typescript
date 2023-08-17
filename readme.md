@@ -1,6 +1,6 @@
 # Leetcode in Typescript
 
-**Progress: 8/2520**
+**Progress: 13/2520**
 
 | Problem ID | Title                                                                                                                                                        | Solution                                                                                                 | Difficulty |
 |------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|------------|
@@ -14,5 +14,6 @@
 | 13         | [Roman to Intiger](https://leetcode.com/problems/roman-to-integer/)                                                                                          | [Solution](./src/0013/roman-to-intiger.ts)                                                               | Easy       |
 | 14         | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)                                                                    | [Solution](./src/0014/longest-common-prefix.ts)                                                          | Easy       |
 | 17         | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)                                                | [Solution](./src/0017/letter-combinations-of-a-phone-number.ts)                                          | Medium     |
+| 21         | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)                                                                  | [Solution](./src/0021/merge-two-sorted-lists.ts)                                                         | Easy       |
 | 26         | [Remove Dupliactes form Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)                                        | [Solution](./src/0026/remove-duplicates-from-sorted-array.ts)                                            | Easy       |
 | 58         | [Length of last word](https://leetcode.com/problems/length-of-last-word/)                                                                                    | [Solution](./src/0058/length-of-last-word.ts)                                                            | Easy       |
